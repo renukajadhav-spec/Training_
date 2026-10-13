@@ -23,3 +23,19 @@
 | `git push -u origin main` | Uploads commits to GitHub the first time (later just `git push`) |
 
 My routine after changing files: `git add .` → `git commit -m "..."` → `git push`
+
+---
+
+# Day 2
+
+## What I learned
+
+- 
+
+## Commands / tools used
+
+- 
+
+## Questions to follow up
+
+- 
