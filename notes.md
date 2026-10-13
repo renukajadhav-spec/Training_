@@ -21,6 +21,9 @@
 | `git commit -am "message"` | Stages changes to tracked files and commits in one step |
 | `git remote add origin <URL>` | Connects the local folder to a GitHub repository |
 | `git push -u origin main` | Uploads commits to GitHub the first time (later just `git push`) |
+| `git switch -c practice` | Creates a new branch called `practice` and switches to it |
+| `git switch main` | Switches back to the `main` branch |
+| `git merge practice` | Brings the commits from `practice` into the current branch |
 
 My routine after changing files: `git add .` → `git commit -m "..."` → `git push`
 
