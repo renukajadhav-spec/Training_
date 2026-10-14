@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Renuka Jadhav</title>
+  <meta name="description" content="Profile page of Renuka Jadhav, Verve Advisory.">
+  <style>
+    :root {
+      --blue: #1d4ed8;
+      --blue-dark: #1e3a8a;
+      --blue-pale: #e0e9ff;
+      --page: #f1f5fb;
+      --card: #ffffff;
+      --text: #1f2937;
+      --muted: #5b6474;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Segoe UI", system-ui, -apple-system, Arial, sans-serif;
+      background: var(--page);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    /* Header */
+    header {
+      background: linear-gradient(135deg, var(--blue-dark), var(--blue));
+      color: #fff;
+      text-align: center;
+      padding: 56px 16px 72px;
+    }
+    .badge {
+      width: 96px; height: 96px;
+      margin: 0 auto 16px;
+      border-radius: 50%;
+      background: #fff;
+      color: var(--blue);
+      font-size: 34px; font-weight: 700;
+      display: flex; align-items: center; justify-content: center;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, .18);
+    }
+    header h1 { font-size: 34px; font-weight: 700; }
+    header p { font-size: 17px; opacity: .9; margin-top: 4px; }
+
+    /* Cards */
+    main {
+      max-width: 760px;
+      margin: -40px auto 0;
+      padding: 0 16px;
+      display: grid;
+      gap: 18px;
+    }
+    .card {
+      background: var(--card);
+      border-radius: 14px;
+      padding: 24px 26px;
+      box-shadow: 0 4px 16px rgba(29, 78, 216, .08);
+    }
+    .card h2 {
+      font-size: 20px;
+      color: var(--blue);
+      margin-bottom: 8px;
+    }
+    .card p { color: var(--muted); font-size: 16px; }
+
+    /* Skill tags */
+    .tags { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 4px; }
+    .tag {
+      background: var(--blue-pale);
+      color: var(--blue);
+      font-size: 14px; font-weight: 600;
+      padding: 6px 14px;
+      border-radius: 999px;
+    }
+
+    footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 13px;
+      padding: 36px 16px 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="badge" aria-hidden="true">RJ</div>
+    <h1>Renuka Jadhav</h1>
+    <p>Verve Advisory · Learning to build tools</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>About me</h2>
+      <p>I'm Renuka Jadhav. I work at Verve Advisory and I'm learning to build simple tools with VS Code and Claude Code.</p>
+    </section>
+
+    <section class="card">
+      <h2>My work</h2>
+      <p>Accounting and GST work: keeping books accurate and checking GST figures.</p>
+    </section>
+
+    <section class="card">
+      <h2>Skills</h2>
+      <div class="tags">
+        <span class="tag">VS Code &amp; Claude Code</span>
+        <span class="tag">Accounting &amp; GST</span>
+        <span class="tag">Git &amp; GitHub</span>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>What I'm learning</h2>
+      <p>A 10-day training on VS Code, Git, GitHub, Claude Code and databases.</p>
+    </section>
+  </main>
+
+  <footer>Made with VS Code + Claude Code · 2026</footer>
+
+</body>
+</html>
