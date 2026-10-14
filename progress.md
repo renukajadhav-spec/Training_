@@ -7,7 +7,7 @@ Plan: [training-plan.md](training-plan.md)
 
 | Day | Status | Main proof |
 |---|---|---|
-| 1 | Done (1 item to confirm) | [notes.md on GitHub](https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md) |
+| 1 | Done | [notes.md on GitHub](https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md) |
 | 2 | Done (send notes to the manager; Intro-to-GitHub screenshot missing) | [commit history](https://github.com/renukajadhav-spec/training/commits/main) |
 | 3 | Done (send Day 3 note) | [Live profile page](https://renukajadhav-spec.github.io/training/) |
 | 4 | Not started | |
@@ -17,7 +17,7 @@ Plan: [training-plan.md](training-plan.md)
 | # | Task | Status | Proof |
 |---|---|---|---|
 | 1 | Install VS Code and Git | Done | `git version 2.56.0.windows.2` shown in VS Code's Git Bash terminal |
-| 2 | Claude Code extension + company login | Extension done; **signed in with personal account** (checked 14 Oct) | Get company login from the manager → `/logout` → `/login` → screenshot `/status` → `proof/day1-claude-login.png` |
+| 2 | Claude Code extension + company login | Done | Extension installed and working; signed in as renukajadhav334@gmail.com — manager confirmed (14 Oct) this login is OK to use instead of a company login |
 | 3 | Folder `training`, opened in VS Code | Done | `Desktop\Training` open as the VS Code workspace |
 | 4 | `notes.md` with heading, list, bold | Done | [notes.md](https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md), commits `534780a`, `aa2414e` |
 | 5 | `git --version` in the VS Code terminal | Done | Version shown after fixing `git--version` → `git --version` |

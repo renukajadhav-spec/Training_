@@ -6,7 +6,7 @@
 2. **What I built (link or screenshot):** Day 1 notes – https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md
 3. **One thing I learned (in my own words):** VS Code is a free editor where we can build our own tools to replace manual work, and Claude Code inside it can read my files and run commands for me.
 4. **Where I got stuck, and how I solved it:** `git --version` did not work at first. I had typed `git--version` without the space. With the space, it showed the version. Git also only works in the Git Bash terminal, not PowerShell.
-5. **Question for Manager:** Claude Code is currently signed in with my personal account (renukajadhav334@gmail.com). Could you share the company Claude login so I can switch?
+5. **Question for Manager:** (Answered: the manager confirmed my current Claude login is fine to use.)
 
 ## Day 2 note - Renuka
 
