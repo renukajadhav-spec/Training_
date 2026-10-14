@@ -29,16 +29,27 @@ My routine after changing files: `git add .` → `git commit -m "..."` → `git 
 
 ---
 
-# Day 2
+# Day 2: Git and GitHub
 
 ## What I learned
 
-- 
+- **Repository (repo):** a project folder.
+- **Commit:** a save point. Each commit has a short message saying what you changed.
+- **Push:** uploading your saves from your computer to GitHub.
+- **Branch:** a separate copy of your work where you can try things without touching the main version. Like making a photocopy of your homework to experiment on.
+- **Merge:** taking the changes from that copy and putting them back into the main version.
+- **VS Code with the Claude Code extension** is like Google Assistant on your phone: you ask in plain words and it does the work, but for files, folders and commands on your computer.
 
-## Commands / tools used
+## What I did
 
-- 
+1. Created a GitHub account with my work email.
+2. Finished the "Introduction to GitHub" exercise.
+3. Created a new repository and connected my Day 1 folder to it, with Claude Code explaining each command before running it.
+4. Changed `notes.md`, then committed and pushed at least 3 times with clear messages.
+5. Made a branch called `practice`, changed something there, then merged it back.
 
-## Questions to follow up
+## Be careful
 
-- 
+- GitHub is meant for **code and small files**, not big videos or huge folders.
+- If a repository is **public**, anyone on the internet can see the files. If it's **private**, only you and the people you invite can see them.
+- **Never upload passwords, secret keys or private company data**, even to a private repository.

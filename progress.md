@@ -38,5 +38,5 @@ Plan: [training-plan.md](training-plan.md)
 - [ ] Repo name: rename `Training_` → `training` (GitHub → Settings → Repository name).
 - [ ] Delete the accidental duplicate repo `Training.` (created 13 Oct, 1 minute before `Training_`).
 - [x] Commit email: switched to `renuka.jadhav@verveadvisory.com` on 14 Oct. Earlier commits keep the Gmail; add it on GitHub → Settings → Emails so they link to the profile too.
-- [ ] Commit "Added Day 2 notes" with the content of `Day 2.docx`.
+- [x] Commit "Added Day 2 notes" with the content of `Day 2.docx` (14 Oct).
 - [ ] Send Day 1 and Day 2 daily notes to Palash.
