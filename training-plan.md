@@ -1,8 +1,8 @@
 # Training Plan – Days 1 to 10
 
-**Trainee:** Renuka Jadhav · **Mentor:** Palash · **Source:** Training_Plan_Days_1-10.pdf
+**Trainee:** Renuka Jadhav · **Mentor:** Manager · **Source:** Training_Plan_Days_1-10.pdf
 
-Every day ends with: work committed and pushed (proof), `progress.md` updated, daily note sent to Palash.
+Every day ends with: work committed and pushed (proof), `progress.md` updated, daily note sent to the manager.
 
 ## Suggested schedule
 
@@ -19,7 +19,7 @@ Every day ends with: work committed and pushed (proof), `progress.md` updated, d
 | 9 | Finding and fixing problems (FRs) | Fri 23 Oct | |
 | 10 | Finish, write up and demo | Mon 26 Oct | |
 
-Dates assume Monday–Friday, one plan day per working day. Move them if Palash sets a different pace.
+Dates assume Monday–Friday, one plan day per working day. Move them if the manager sets a different pace.
 
 ---
 
@@ -27,7 +27,7 @@ Dates assume Monday–Friday, one plan day per working day. Move them if Palash 
 
 ### Day 1: Set up your laptop and meet VS Code
 1. Install VS Code and Git on your laptop.
-2. In VS Code, install the Claude Code extension and sign in with the company Claude login Palash gives you.
+2. In VS Code, install the Claude Code extension and sign in with the company Claude login the manager gives you.
 3. Make a folder called `training`. Open it in VS Code.
 4. Create a file `notes.md`. Write what you learned today using a heading, a list and bold text.
 5. Open the terminal inside VS Code and type `git --version`. If you see a version number, Git is ready.
@@ -95,7 +95,7 @@ From today, every piece of work goes on its own branch. When done, open a **pull
 | Manager sees pending claims and approves or rejects with a remark | Manager cannot approve own claim |
 | Amount checks: no blank, no zero, no negative | |
 
-**Show at review:** `prd.md` and `rules.md`. Palash may ask you to change them before you start building.
+**Show at review:** `prd.md` and `rules.md`. The manager may ask you to change them before you start building.
 
 **Checklist:**
 - [ ] Watch AI Fluency: Framework & Foundations
@@ -105,7 +105,7 @@ From today, every piece of work goes on its own branch. When done, open a **pull
 - [ ] Write `rules.md`
 - [ ] Write `handoff.md`
 - [ ] Do the work on a branch, open a pull request, and merge it
-- [ ] Show `prd.md` and `rules.md` to Palash
+- [ ] Show `prd.md` and `rules.md` to the manager
 
 **Easiest way:** write rough points yourself first, then ask Claude to tidy them, not to write them. Watch the videos in the morning, write in the afternoon.
 **Proof:** course completion screenshots + merged PR link + the three files on GitHub.
@@ -136,7 +136,7 @@ By evening: the whole "Must have" list works from start to end.
 ### Day 9: Finding and fixing problems
 By evening: at least 2 practice FRs fixed, with the root cause of each found.
 
-Palash gives 2–3 practice FRs (Feature Requests) on your own app. For each one:
+The manager gives 2–3 practice FRs (Feature Requests) on your own app. For each one:
 1. Repeat the problem yourself first, so you see it with your own eyes.
 2. Ask Claude to find the **root cause**: why it happens, not only how to hide it. Ask it to explain in simple words.
 3. Fix it on its own branch, named after the FR (for example `fr-1-negative-amount`).
@@ -156,18 +156,18 @@ Status:      Fixed / Need more info
 **Proof:** one PR per FR + the FR comments.
 
 ### Day 10: Finish, write up and demo
-By evening: a full demo of the 10 days given to Palash.
+By evening: a full demo of the 10 days given to the manager.
 1. Finish any open FRs and write their comments.
 2. Ask Claude to help you write a `README.md` for the expense app: what it does, how to run it.
 3. Prepare a 15-minute demo: your profile page, vendor page, expense app, and one FR you fixed.
 4. Write in `notes.md`: 3 things you are confident about, and 3 things you still find hard.
 
-**Show at review:** the final demo. Palash goes through a "ready" checklist with you.
+**Show at review:** the final demo. The manager goes through a "ready" checklist with you.
 **Proof:** `README.md` on GitHub + `progress.md` complete with every link.
 
 ---
 
-## Daily note (send to Palash before the evening review, ~5 minutes)
+## Daily note (send to the manager before the evening review, ~5 minutes)
 
 ```
 Day __ note - Renuka
@@ -176,5 +176,5 @@ Day __ note - Renuka
 2. What I built (link or screenshot):
 3. One thing I learned (in my own words):
 4. Where I got stuck, and how I solved it:
-5. Question for Palash:
+5. Question for Manager:
 ```

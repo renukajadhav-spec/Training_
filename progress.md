@@ -8,7 +8,7 @@ Plan: [training-plan.md](training-plan.md)
 | Day | Status | Main proof |
 |---|---|---|
 | 1 | Done (1 item to confirm) | [notes.md on GitHub](https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md) |
-| 2 | Done (send notes to Palash; Intro-to-GitHub screenshot missing) | [commit history](https://github.com/renukajadhav-spec/training/commits/main) |
+| 2 | Done (send notes to the manager; Intro-to-GitHub screenshot missing) | [commit history](https://github.com/renukajadhav-spec/training/commits/main) |
 | 3 | Not started | |
 
 ## Day 1 – Set up laptop, meet VS Code (12 Oct 2026)
@@ -16,7 +16,7 @@ Plan: [training-plan.md](training-plan.md)
 | # | Task | Status | Proof |
 |---|---|---|---|
 | 1 | Install VS Code and Git | Done | `git version 2.56.0.windows.2` shown in VS Code's Git Bash terminal |
-| 2 | Claude Code extension + company login | Extension done; **signed in with personal account** (checked 14 Oct) | Get company login from Palash → `/logout` → `/login` → screenshot `/status` → `proof/day1-claude-login.png` |
+| 2 | Claude Code extension + company login | Extension done; **signed in with personal account** (checked 14 Oct) | Get company login from the manager → `/logout` → `/login` → screenshot `/status` → `proof/day1-claude-login.png` |
 | 3 | Folder `training`, opened in VS Code | Done | `Desktop\Training` open as the VS Code workspace |
 | 4 | `notes.md` with heading, list, bold | Done | [notes.md](https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md), commits `534780a`, `aa2414e` |
 | 5 | `git --version` in the VS Code terminal | Done | Version shown after fixing `git--version` → `git --version` |
@@ -39,4 +39,4 @@ Plan: [training-plan.md](training-plan.md)
 - [x] Delete the accidental duplicate repo `Training.` (deleted 14 Oct; confirmed via GitHub API, now returns 404).
 - [x] Commit email: switched to `renuka.jadhav@verveadvisory.com` on 14 Oct. Earlier commits keep the Gmail; add it on GitHub → Settings → Emails so they link to the profile too.
 - [x] Commit "Added Day 2 notes" with the content of `Day 2.docx` (14 Oct).
-- [ ] Send Day 1 and Day 2 daily notes to Palash.
+- [ ] Send Day 1 and Day 2 daily notes to the manager.

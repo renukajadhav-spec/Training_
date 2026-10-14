@@ -1,4 +1,4 @@
-# Daily notes to Palash
+# Daily notes to Manager
 
 ## Day 1 note - Renuka
 
@@ -6,7 +6,7 @@
 2. **What I built (link or screenshot):** Day 1 notes – https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md
 3. **One thing I learned (in my own words):** VS Code is a free editor where we can build our own tools to replace manual work, and Claude Code inside it can read my files and run commands for me.
 4. **Where I got stuck, and how I solved it:** `git --version` did not work at first. I had typed `git--version` without the space. With the space, it showed the version. Git also only works in the Git Bash terminal, not PowerShell.
-5. **Question for Palash:** Claude Code is currently signed in with my personal account (renukajadhav334@gmail.com). Could you share the company Claude login so I can switch?
+5. **Question for Manager:** Claude Code is currently signed in with my personal account (renukajadhav334@gmail.com). Could you share the company Claude login so I can switch?
 
 ## Day 2 note - Renuka
 
@@ -14,4 +14,4 @@
 2. **What I built (link or screenshot):** Repo – https://github.com/renukajadhav-spec/training · Commit history – https://github.com/renukajadhav-spec/training/commits/main
 3. **One thing I learned (in my own words):** A branch is like a photocopy of my homework: I can try changes there without touching the main version, and merge them back when they're good.
 4. **Where I got stuck, and how I solved it:** The GitHub CLI download was blocked on our network, so I created the repo on the GitHub website and connected it with `git remote add origin`. Also, `notes.md` was outside the repo folder, so Git couldn't see it until we moved it in.
-5. **Question for Palash:** Should my repo be public or private? (It needs to be public for the Day 3 GitHub Pages profile page on a free account.)
+5. **Question for Manager:** Should my repo be public or private? (It needs to be public for the Day 3 GitHub Pages profile page on a free account.)
