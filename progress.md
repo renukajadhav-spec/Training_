@@ -8,8 +8,8 @@ Plan: [training-plan.md](training-plan.md)
 | Day | Status | Main proof |
 |---|---|---|
 | 1 | Done | [notes.md on GitHub](https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md) |
-| 2 | Done (send notes to the manager) | [commit history](https://github.com/renukajadhav-spec/training/commits/main) |
-| 3 | Done (send Day 3 note) | [Live profile page](https://renukajadhav-spec.github.io/training/) |
+| 2 | Done | [commit history](https://github.com/renukajadhav-spec/training/commits/main) |
+| 3 | Done | [Live profile page](https://renukajadhav-spec.github.io/training/) |
 | 4 | Not started | |
 
 ## Day 1 – Set up laptop, meet VS Code (12 Oct 2026)
@@ -40,7 +40,7 @@ Plan: [training-plan.md](training-plan.md)
 - [x] Delete the accidental duplicate repo `Training.` (deleted 14 Oct; confirmed via GitHub API, now returns 404).
 - [x] Commit email: switched to `renuka.jadhav@verveadvisory.com` on 14 Oct. Earlier commits keep the Gmail; add it on GitHub → Settings → Emails so they link to the profile too.
 - [x] Commit "Added Day 2 notes" with the content of `Day 2.docx` (14 Oct).
-- [ ] Send Day 1 and Day 2 daily notes to the manager.
+- [x] Send Day 1 and Day 2 daily notes to the manager (sent 14 Oct).
 
 ## Day 3 – Profile page with Claude Code (14 Oct 2026)
 
@@ -54,4 +54,4 @@ Plan: [training-plan.md](training-plan.md)
 | 6 | No phone number or personal email on the page | Done | File checked: 0 email addresses, 0 phone numbers |
 
 **Open for Day 3:**
-- [ ] Send Day 3 daily note to the manager.
+- [x] Send Day 3 daily note to the manager (sent 14 Oct).
