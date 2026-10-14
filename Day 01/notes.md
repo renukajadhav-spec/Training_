@@ -62,7 +62,7 @@ My routine after changing files: `git add .` → `git commit -m "..."` → `git 
 - **About me:** I'm Renuka Jadhav. I work at Verve Advisory and I'm learning to build simple tools with VS Code and Claude Code.
 - **My work:** Accounting and GST work: keeping books accurate and checking GST figures.
 - **What I'm learning:** A 10-day training on VS Code, Git, GitHub, Claude Code and databases.
-- **Skills (as small tags):** VS Code & Claude Code · Accounting & GST · Git & GitHub
+- **Skills (as small tags):** VS Code & Claude Code · Accounting & GST · Git & GitHub · Reconciliation
 
 ## Look and feel
 - **Colours:** blue and white
