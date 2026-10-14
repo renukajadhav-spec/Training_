@@ -53,3 +53,20 @@ My routine after changing files: `git add .` → `git commit -m "..."` → `git 
 - GitHub is meant for **code and small files**, not big videos or huge folders.
 - If a repository is **public**, anyone on the internet can see the files. If it's **private**, only you and the people you invite can see them.
 - **Never upload passwords, secret keys or private company data**, even to a private repository.
+
+---
+
+# Day 3: My profile page plan
+
+## Sections I want
+- **About me:** I'm Renuka Jadhav. I work at Verve Advisory and I'm learning to build simple tools with VS Code and Claude Code.
+- **My work:** Accounting and GST work: keeping books accurate and checking GST figures.
+- **What I'm learning:** A 10-day training on VS Code, Git, GitHub, Claude Code and databases.
+- **Skills (as small tags):** VS Code & Claude Code · Accounting & GST · Git & GitHub
+
+## Look and feel
+- **Colours:** blue and white
+- **Style:** modern, with each section in its own rounded card
+
+## Rules
+- No phone number and no personal email on the page.
