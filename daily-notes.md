@@ -15,3 +15,11 @@
 3. **One thing I learned (in my own words):** A branch is like a photocopy of my homework: I can try changes there without touching the main version, and merge them back when they're good.
 4. **Where I got stuck, and how I solved it:** The GitHub CLI download was blocked on our network, so I created the repo on the GitHub website and connected it with `git remote add origin`. Also, `notes.md` was outside the repo folder, so Git couldn't see it until we moved it in.
 5. **Question for Manager:** Should my repo be public or private? (It needs to be public for the Day 3 GitHub Pages profile page on a free account.)
+
+## Day 3 note - Renuka
+
+1. **What I did today:** Wrote what I wanted on my profile page in `notes.md`, asked Claude Code for a plan in Plan mode and approved it, let Claude build the page, asked for 2 changes, and put it live with GitHub Pages.
+2. **What I built (link or screenshot):** https://renukajadhav-spec.github.io/training/
+3. **One thing I learned (in my own words):** Plan mode is like seeing the cake design before the baker bakes it: Claude shows the plan first and builds nothing until I approve.
+4. **Where I got stuck, and how I solved it:** I didn't see the plan at first and rejected it by mistake. Claude showed it to me again with a sketch, and I approved it.
+5. **Question for Manager:** Is this enough for the profile page, or should I add more sections (for example a photo or contact card)?
