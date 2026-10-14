@@ -18,56 +18,56 @@
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       font-family: "Segoe UI", system-ui, -apple-system, Arial, sans-serif;
-      background: var(--page);
+      background: #fff;
       color: var(--text);
       line-height: 1.6;
     }
 
-    /* Header */
+    /* Header: white band, blue text */
     header {
-      background: linear-gradient(135deg, var(--blue-dark), var(--blue));
-      color: #fff;
+      background: #fff;
+      color: var(--blue);
       text-align: center;
-      padding: 56px 16px 72px;
+      padding: 56px 16px 40px;
     }
     .badge {
       width: 96px; height: 96px;
       margin: 0 auto 16px;
       border-radius: 50%;
-      background: #fff;
-      color: var(--blue);
+      background: linear-gradient(135deg, var(--blue-dark), var(--blue));
+      color: #fff;
       font-size: 34px; font-weight: 700;
       display: flex; align-items: center; justify-content: center;
-      box-shadow: 0 6px 18px rgba(0, 0, 0, .18);
+      box-shadow: 0 6px 18px rgba(29, 78, 216, .3);
     }
-    header h1 { font-size: 34px; font-weight: 700; }
-    header p { font-size: 17px; opacity: .9; margin-top: 4px; }
+    header h1 { font-size: 34px; font-weight: 700; color: var(--blue-dark); }
+    header p { font-size: 17px; color: var(--blue); margin-top: 4px; }
 
-    /* Cards */
+    /* Cards: blue boxes, white text */
     main {
       max-width: 760px;
-      margin: -40px auto 0;
+      margin: 0 auto;
       padding: 0 16px;
       display: grid;
       gap: 18px;
     }
     .card {
-      background: var(--card);
+      background: linear-gradient(135deg, var(--blue-dark), var(--blue));
       border-radius: 14px;
       padding: 24px 26px;
-      box-shadow: 0 4px 16px rgba(29, 78, 216, .08);
+      box-shadow: 0 6px 18px rgba(29, 78, 216, .25);
     }
     .card h2 {
       font-size: 20px;
-      color: var(--blue);
+      color: #fff;
       margin-bottom: 8px;
     }
-    .card p { color: var(--muted); font-size: 16px; }
+    .card p { color: #e6edff; font-size: 16px; }
 
-    /* Skill tags */
+    /* Skill tags: white pills, blue text */
     .tags { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 4px; }
     .tag {
-      background: var(--blue-pale);
+      background: #fff;
       color: var(--blue);
       font-size: 14px; font-weight: 600;
       padding: 6px 14px;
