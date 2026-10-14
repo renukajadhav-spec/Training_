@@ -43,7 +43,7 @@ My routine after changing files: `git add .` → `git commit -m "..."` → `git 
 ## What I did
 
 1. Created a GitHub account with my work email.
-2. Finished the "Introduction to GitHub" exercise.
+2. "Introduction to GitHub" exercise: not required (manager confirmed).
 3. Created a new repository and connected my Day 1 folder to it, with Claude Code explaining each command before running it.
 4. Changed `notes.md`, then committed and pushed at least 3 times with clear messages.
 5. Made a branch called `practice`, changed something there, then merged it back.

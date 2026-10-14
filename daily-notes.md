@@ -10,7 +10,7 @@
 
 ## Day 2 note - Renuka
 
-1. **What I did today:** Created my GitHub account and did the "Introduction to GitHub" exercise. Connected my training folder to a GitHub repo, made 4 commits to `notes.md` and pushed them, then made a `practice` branch and merged it back. Also made a 5-slide PDF of what I learned.
+1. **What I did today:** Created my GitHub account (the manager confirmed the "Introduction to GitHub" exercise is not needed). Connected my training folder to a GitHub repo, made 4 commits to `notes.md` and pushed them, then made a `practice` branch and merged it back. Also made a 5-slide PDF of what I learned.
 2. **What I built (link or screenshot):** Repo – https://github.com/renukajadhav-spec/training · Commit history – https://github.com/renukajadhav-spec/training/commits/main
 3. **One thing I learned (in my own words):** A branch is like a photocopy of my homework: I can try changes there without touching the main version, and merge them back when they're good.
 4. **Where I got stuck, and how I solved it:** The GitHub CLI download was blocked on our network, so I created the repo on the GitHub website and connected it with `git remote add origin`. Also, `notes.md` was outside the repo folder, so Git couldn't see it until we moved it in.

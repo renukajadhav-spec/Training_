@@ -8,7 +8,7 @@ Plan: [training-plan.md](training-plan.md)
 | Day | Status | Main proof |
 |---|---|---|
 | 1 | Done | [notes.md on GitHub](https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md) |
-| 2 | Done (send notes to the manager; Intro-to-GitHub screenshot missing) | [commit history](https://github.com/renukajadhav-spec/training/commits/main) |
+| 2 | Done (send notes to the manager) | [commit history](https://github.com/renukajadhav-spec/training/commits/main) |
 | 3 | Done (send Day 3 note) | [Live profile page](https://renukajadhav-spec.github.io/training/) |
 | 4 | Not started | |
 
@@ -28,7 +28,7 @@ Plan: [training-plan.md](training-plan.md)
 | # | Task | Status | Proof |
 |---|---|---|---|
 | 1 | GitHub account (work email) | Done | Account [renukajadhav-spec](https://github.com/renukajadhav-spec) |
-| 2 | "Introduction to GitHub" exercise | Done (per notes) | **Missing:** no public exercise repo found. Screenshot the finished exercise → `proof/day2-intro-github.png` |
+| 2 | "Introduction to GitHub" exercise | Not required | Manager confirmed on 14 Oct that this exercise is not needed |
 | 3 | Repo `training`, connected to Day 1 folder | Done | [training](https://github.com/renukajadhav-spec/training), first commit `5fb1348` |
 | 4 | Change `notes.md`, commit + push ×3 | Done | `aa2414e` Format notes · `dbe0ac1` Git commands section · `7800e3b` Day 2 template – [history](https://github.com/renukajadhav-spec/training/commits/main) |
 | 5 | Branch `practice`, change, merge back | Done | Commit `57cd23a` on [practice](https://github.com/renukajadhav-spec/training/tree/practice), fast-forward merged into `main` |
