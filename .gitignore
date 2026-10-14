@@ -1,0 +1,5 @@
+# Personal VS Code settings (contain local paths)
+.vscode/
+
+# Office temporary lock files (created while a Word/Excel file is open)
+~$*
