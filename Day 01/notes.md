@@ -101,6 +101,10 @@ My routine after changing files: `git add .` → `git commit -m "..."` → `git 
 - In Excel, you open the file, look at it, and type into it.
 - In Supabase, an app or website reads and writes the data. For example, when an employee submits a claim in my Expense app, the app saves it into Supabase automatically. Nobody opens a file.
 
+**6. In Excel anyone can change the main data. Supabase has RLS.**
+- In Excel, anyone who has the file can change or disrupt the main data.
+- In Supabase, RLS (Row Level Security) keeps the data under the policies I decide, as per the requirement. So the data can only be changed by **who is allowed**, and only in the **way they are allowed** (read, add, edit or delete).
+
 ## In one picture
 - **Excel** is like a **personal notebook on your desk**. Great for you to write in and look at.
 - **Supabase** is like a **shared office register kept at the front desk**. Many people and apps can add to it and check it, it follows strict rules, and there's only one true copy.
