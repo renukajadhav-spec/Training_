@@ -33,4 +33,4 @@ then refined in plain words (highlighted key skills, white "Learning now" tags w
 | Commit | `c487019` – Profile page v2 |
 | Live page | https://renukajadhav-spec.github.io/training/ |
 | Screenshot | [proof/day3-profile-page-v2.png](../proof/day3-profile-page-v2.png) |
-| Privacy check | No phone number, no email, no employer or client names |
+| Privacy check | No phone number, no email, no employer or client names (company name removed in `ff2f85b`) |
