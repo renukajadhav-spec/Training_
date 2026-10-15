@@ -10,7 +10,7 @@ Plan: [training-plan.md](training-plan.md)
 | 1 | Done | [notes.md on GitHub](https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md) |
 | 2 | Done | [commit history](https://github.com/renukajadhav-spec/training/commits/main) |
 | 3 | Done | [Live profile page](https://renukajadhav-spec.github.io/training/) |
-| 4 | Done (send Day 4 note) | [vendors.csv](Day%2004/vendors.csv) · [Day 4 notes](Day%2001/notes.md) |
+| 4 | Done | [vendors.csv](Day%2004/vendors.csv) · [Day 4 notes](Day%2001/notes.md) |
 
 ## Day 1 – Set up laptop, meet VS Code (12 Oct 2026)
 
@@ -67,4 +67,4 @@ Plan: [training-plan.md](training-plan.md)
 | 5 | Notes: Supabase table vs Excel sheet | Done | "Day 4: Supabase table vs Excel sheet" in [Day 01/notes.md](Day%2001/notes.md) – alike + 5 differences + notebook vs office register |
 
 **Open for Day 4:**
-- [ ] Send Day 4 daily note to the manager.
+- [x] Send Day 4 daily note to the manager (sent 15 Oct).

@@ -1,6 +1,6 @@
 # Daily notes to Manager
 
-Status: Day 1, Day 2 and Day 3 notes sent on 14 Oct 2026.
+Status: Day 1, Day 2 and Day 3 notes sent on 14 Oct 2026; Day 4 note sent on 15 Oct 2026.
 
 ## Day 1 note - Renuka
 
