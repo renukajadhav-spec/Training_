@@ -25,3 +25,11 @@ Status: Day 1, Day 2 and Day 3 notes sent on 14 Oct 2026.
 3. **One thing I learned (in my own words):** Plan mode is like seeing the cake design before the baker bakes it: Claude shows the plan first and builds nothing until I approve.
 4. **Where I got stuck, and how I solved it:** I didn't see the plan at first and rejected it by mistake. Claude showed it to me again with a sketch, and I approved it.
 5. **Question for Manager:** Is this enough for the profile page, or should I add more sections (for example a photo or contact card)?
+
+## Day 4 note - Renuka
+
+1. **What I did today:** Created a Supabase account and a project called `training`. Made a CSV of 15 fake vendors (name, city, GSTIN, credit limit, balance, due date), imported it into a `vendors` table with GSTIN as the primary key, and asked it questions with SQL: vendors over their credit limit, total balance by city, and (bonus) overdue vendors. Saved the 3 queries in Supabase and wrote notes comparing Supabase with Excel.
+2. **What I built (link or screenshot):** Queries – https://github.com/renukajadhav-spec/training/blob/main/Day%2004/queries.sql · Results – https://github.com/renukajadhav-spec/training/tree/main/proof
+3. **One thing I learned (in my own words):** Excel is like a personal notebook on my desk; Supabase is like a shared office register at the front desk: many people and apps use it, it follows strict rules, and there's only one true copy.
+4. **Where I got stuck, and how I solved it:** I typed my question in English in the SQL Editor and got a syntax error. The SQL Editor only understands SQL, so I pasted the SQL version and it worked. I also had to change `due_date` from text to date so the overdue question could work.
+5. **Question for Manager:** Should I keep this Supabase project for Day 5 (vendor page), or create a new one?

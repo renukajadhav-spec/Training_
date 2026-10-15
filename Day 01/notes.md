@@ -70,3 +70,37 @@ My routine after changing files: `git add .` → `git commit -m "..."` → `git 
 
 ## Rules
 - No phone number and no personal email on the page.
+
+---
+
+# Day 4: Supabase table vs Excel sheet
+
+## How they are alike
+- Both show data in **rows and columns** with headings, one record per row.
+- In both I can **sort, filter, add rows and edit cells**.
+
+## How they are different
+
+**1. Excel is a file. Supabase lives online.**
+- An Excel file usually sits on one computer. If two people edit copies, you end up with two different versions.
+- Supabase is in one place on the internet, so everyone and every app uses the same data at the same time.
+
+**2. Excel lets you type anything. Supabase follows rules.**
+- In Excel, you could type "hello" in the amount column, and Excel won't stop you.
+- In Supabase, you can set rules, like "amount must be a number." Wrong data gets rejected. This is like the "no blank, no zero, no negative" rule in my Expense app.
+
+**3. Excel works well for small data. Supabase handles a lot.**
+- Excel gets slow with very large lists.
+- Supabase can hold millions of rows and still find things quickly.
+
+**4. Excel uses formulas. Supabase uses SQL.**
+- In Excel, you filter or use formulas to find vendors over their credit limit.
+- In Supabase, you ask with SQL, a simple question language, like: "show me vendors where balance is more than credit limit."
+
+**5. Excel is for people. Supabase is for apps.**
+- In Excel, you open the file, look at it, and type into it.
+- In Supabase, an app or website reads and writes the data. For example, when an employee submits a claim in my Expense app, the app saves it into Supabase automatically. Nobody opens a file.
+
+## In one picture
+- **Excel** is like a **personal notebook on your desk**. Great for you to write in and look at.
+- **Supabase** is like a **shared office register kept at the front desk**. Many people and apps can add to it and check it, it follows strict rules, and there's only one true copy.
