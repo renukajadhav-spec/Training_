@@ -68,3 +68,5 @@ Plan: [training-plan.md](training-plan.md)
 
 **Open for Day 4:**
 - [x] Send Day 4 daily note to the manager (sent 15 Oct).
+
+**Extra (15 Oct):** Profile page upgraded to v2: a professional two-column résumé built from my CV – commit `c487019`, live at https://renukajadhav-spec.github.io/training/, screenshot [proof/day3-profile-page-v2.png](proof/day3-profile-page-v2.png).

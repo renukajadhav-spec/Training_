@@ -21,3 +21,16 @@ The Day 3 work lives in a few places. This page links to all of it.
 | 4 | Change 2: added Reconciliation skill | `8d46950` |
 | 5 | Turned on GitHub Pages (`main` / `docs`) – page live | `d1190a3` |
 | 6 | Checked: no phone number or personal email on the page | — |
+
+## Upgrade – version 2 (15 Oct 2026)
+
+Rebuilt the page as a professional two-column résumé using my experience (MBA Finance, 4+ years,
+Zoho Books, Tally Prime, GST returns, reconciliations, payroll compliance). Planned in Plan mode,
+then refined in plain words (highlighted key skills, white "Learning now" tags with training project links).
+
+| What | Proof |
+|---|---|
+| Commit | `c487019` – Profile page v2 |
+| Live page | https://renukajadhav-spec.github.io/training/ |
+| Screenshot | [proof/day3-profile-page-v2.png](../proof/day3-profile-page-v2.png) |
+| Privacy check | No phone number, no email, no employer or client names |
