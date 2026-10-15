@@ -10,7 +10,7 @@ Plan: [training-plan.md](training-plan.md)
 | 1 | Done | [notes.md on GitHub](https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md) |
 | 2 | Done | [commit history](https://github.com/renukajadhav-spec/training/commits/main) |
 | 3 | Done | [Live profile page](https://renukajadhav-spec.github.io/training/) |
-| 4 | Not started | |
+| 4 | In progress (2 of 5) | [vendors.csv](Day%2004/vendors.csv) |
 
 ## Day 1 – Set up laptop, meet VS Code (12 Oct 2026)
 
@@ -55,3 +55,13 @@ Plan: [training-plan.md](training-plan.md)
 
 **Open for Day 3:**
 - [x] Send Day 3 daily note to the manager (sent 14 Oct).
+
+## Day 4 – First database with Supabase (15 Oct 2026)
+
+| # | Task | Status | Proof |
+|---|---|---|---|
+| 1 | Supabase account + project `training` | Done | Signed in with GitHub; project `training`, region South Asia (Mumbai), status Healthy – [proof/day4-supabase-project.png](proof/day4-supabase-project.png) |
+| 2 | 15 fake vendors (name, city, GSTIN, credit limit, balance, due date) as CSV | Done | [Day 04/vendors.csv](Day%2004/vendors.csv) – commit `b9fc611` (5 over limit, 6 overdue as of 15 Oct) |
+| 3 | Create `vendors` table in Supabase, import CSV | Not started | |
+| 4 | SQL queries: balance above credit limit, total balance by city | Not started | |
+| 5 | Notes: Supabase table vs Excel sheet | Not started | |
