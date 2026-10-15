@@ -10,7 +10,7 @@ Plan: [training-plan.md](training-plan.md)
 | 1 | Done | [notes.md on GitHub](https://github.com/renukajadhav-spec/training/blob/main/Day%2001/notes.md) |
 | 2 | Done | [commit history](https://github.com/renukajadhav-spec/training/commits/main) |
 | 3 | Done | [Live profile page](https://renukajadhav-spec.github.io/training/) |
-| 4 | In progress (3 of 5) | [vendors.csv](Day%2004/vendors.csv) |
+| 4 | In progress (4 of 5) | [vendors.csv](Day%2004/vendors.csv) |
 
 ## Day 1 – Set up laptop, meet VS Code (12 Oct 2026)
 
@@ -63,5 +63,5 @@ Plan: [training-plan.md](training-plan.md)
 | 1 | Supabase account + project `training` | Done | Signed in with GitHub; project `training`, region South Asia (Mumbai), status Healthy – [proof/day4-supabase-project.png](proof/day4-supabase-project.png) |
 | 2 | 15 fake vendors (name, city, GSTIN, credit limit, balance, due date) as CSV | Done | [Day 04/vendors.csv](Day%2004/vendors.csv) – commit `b9fc611` (5 over limit, 6 overdue as of 15 Oct) |
 | 3 | Create `vendors` table in Supabase, import CSV | Done | Table `vendors`: 15 records, primary key `gstin`, `due_date` as date, RLS on – [proof/day4-vendors-table.png](proof/day4-vendors-table.png) |
-| 4 | SQL queries: balance above credit limit, total balance by city | Not started | |
+| 4 | SQL queries: balance above credit limit, total balance by city | Done | [Day 04/queries.sql](Day%2004/queries.sql) · saved in Supabase as Q1–Q3 · results: [Q1 over limit – 5 vendors](proof/day4-query1-over-limit.png) · [Q2 balance by city – 8 cities](proof/day4-query2-balance-by-city.png) · [Q3 bonus overdue – 6 vendors (15 Oct)](proof/day4-query3-overdue.png) |
 | 5 | Notes: Supabase table vs Excel sheet | Not started | |
